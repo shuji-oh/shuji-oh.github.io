@@ -10,6 +10,14 @@
           justify-content: center;
 }
 
+ul {
+  list-style: none;
+}
+
+li {
+  display: inline;
+}
+
 .mdl-layout__title {
   font-size: 14px;
   text-align: center;
@@ -31,7 +39,7 @@
 .portfolio-logo {
   background: url(images/logo.png) 50% no-repeat;
   background-size: cover;
-  height: 150px;
+  height: 170px;
   width: 180px;
   margin: auto auto 10px;
 }
