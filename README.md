@@ -1,1 +1,0 @@
-# ohirangosta.github.io
