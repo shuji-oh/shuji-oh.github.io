@@ -8,6 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Bio
+Introduction
 ------
-Shuji Ohira received the B.E. degree from Hiroshima City University, in 2018 and M.E. degree from Nara Institute of Science and Technology (NAIST). I am currently pursuing Ph.D. degree with the Graduate School of Science and Technology, NAIST. From 2021 to 2023, I am a Research Fellow of the Japan Society for the Promotion of Science (DC2). My research interests include embedded system security, cyber-physical systems security and automotive network security.
+I am a Ph.D. student of Computer Science at Nara Institute of Science and Technology (NAIST), where I am a member of the Internet Architecture and Systems Laboratory. And, I'm a part-time lecturer, Nara College, National Institute of Technology.
+
+I received the B.E. and M.E. degrees from Hiroshima City University and NAIST, respectively. I am currently pursuing Ph.D. degree with the Graduate School of Science and Technology, NAIST. From 2021 to 2023, I am a Research Fellow of the Japan Society for the Promotion of Science (DC2). 
+
+My research mainly focuses on cybersecurity for cyber-physical systems and their networks. Particularly, I research how to evade the automotive intrusion detection system using physical layer characteristics, information entropy, and so on.
+
