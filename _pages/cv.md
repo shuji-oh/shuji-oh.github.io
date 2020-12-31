@@ -34,7 +34,7 @@ Skills
   * Professional programming experience in C, JavaScript, Python, Verilog HDL.
   * Experience in C++, Go, Node.js, Java.
 * Web Application Framework
-  * Professional developing experience in Django.
+  * Professional development experience in Django.
   * Experience in Frask.
 * Server Administration
   * Experience with software including : Docker, QEMU, Logstash/Kibana/Elasticsearch, Nginx, Apache, MySQL.
