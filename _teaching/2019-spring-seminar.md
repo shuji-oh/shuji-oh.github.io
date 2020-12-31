@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "CAN Bus Hacking"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2019-spring-seminar
+venue: "Nara Institute of Science and Technology"
+date: 2020-02-18
+location: "Nara, Japan"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
