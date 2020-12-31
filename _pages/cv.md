@@ -37,7 +37,7 @@ Skills
   * Professional developping experience in Django.
   * Experience in Frask.
 * Server Administration
-  * Experience with software including : Docker, QEMU, Logstash/Kibana/Elasticsearch, Nginx, Apache.
+  * Experience with software including : Docker, QEMU, Logstash/Kibana/Elasticsearch, Nginx, Apache, MySQL.
 
 Publications
 ======
@@ -57,3 +57,15 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Grants
+======
+* Apr 2021 - Mar 2023: <b>車載ネットワークにおける電圧・遅延特性を用いた高精度・低コストな送信者識別手法</b>
+  * Grant-in-Aid for Young Scientists, Japan Society for the Promotion of Science
+
+Awards
+======
+* July 2016: <b>Scholarship Student</b>, Hiroshima City University
+* July 2017: <b>Scholarship Student</b>, Hiroshima City University
+* Mar 2018: <b>優秀作品賞</b>, SecHack365
+* July 2020: <b>Scholarship Student</b>, Nara Institute of Science and Technology
