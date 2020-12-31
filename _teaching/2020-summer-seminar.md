@@ -7,14 +7,3 @@ venue: "Nara Institute of Science and Technology"
 date: 2020-08-20
 location: "Nara, Japan"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
