@@ -43,8 +43,12 @@ layout: default
         {% endif %}
         
              
-        {% if page.citation and page.paperurl %}
-          <p>Citation: {{ page.citation }} <a href="{{ page.paperurl }}"><u>{{ page.paperurl }}</u></a></p>
+        {% if post.citation and post.paperurl and post.codeurl %}
+          <p>Citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>[PDF]</u></a> <a href="{{ post.codeurl }}"><u>[CODE]</u></a></p>
+        {% elsif page.citation and page.paperurl %}
+          <p>Citation: {{ page.citation }} <a href="{{ page.paperurl }}"><u>[PDF]</u></a></p>
+        {% elsif post.citation and post.codeurl %}
+          <p>Citation: {{ post.citation }} <a href="{{ post.codeurl }}"><u>[CODE]</u></a></p>
         {% elsif page.citation %}
           <p>Citation: {{ page.citation }} </p>
         {% endif %}
