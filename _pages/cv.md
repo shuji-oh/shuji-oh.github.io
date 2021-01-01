@@ -17,14 +17,14 @@ Education
 
 Work experience
 ======
-* Apr 2021 - Mar 2023: JSPS Research Fellowships for Young Scientists (DC2)
-  * Japan Society for the Promotion of Science
-  * Duties included: Researching automotive security
-
 * Oct 2020 - Mar 2021: Part-Time Lecturer
   * Nara College, National Institute of Technology
   * Duties included: Teaching about java programming
   
+* Apr 2021 - Mar 2023: JSPS Research Fellowships for Young Scientists (DC2)
+  * Japan Society for the Promotion of Science
+  * Duties included: Researching automotive security
+
 Skills
 ======
 * Languages
