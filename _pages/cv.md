@@ -35,7 +35,7 @@ Skills
   * Experience in C++, Go, Node.js, Java.
 * Web Application Framework
   * Professional development experience in Django.
-  * Experience in Frask.
+  * Experience in Frask, Vue.js.
 * Server Administration
   * Experience with software including : Docker, QEMU, Logstash/Kibana/Elasticsearch, Nginx, Apache, MySQL.
 
