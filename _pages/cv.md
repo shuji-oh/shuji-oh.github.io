@@ -37,7 +37,7 @@ Skills
   * Professional development experience in Django.
   * Experience in Flask, Vue.js.
 * Server Administration
-  * Experience with software including : Docker, Logstash/Kibana/Elasticsearch, Nginx, Apache, WSGI Server (Gunicorn), MySQL.
+  * Experience with software/tool including : Docker, Logstash/Kibana/Elasticsearch, Nginx, Apache, WSGI Server (Gunicorn), MySQL, CI/CD pipelines (Github Actions).
   * Experience in Microsoft Azure.
 
 Publications
