@@ -28,8 +28,8 @@ Work experience
 Skills
 ======
 * Languages
-  * Japanese, English
-  * German (Limited Proficiency)
+  * Japanese
+  * English (Limited Proficiency)
 * Programming Languages
   * Professional programming experience in C, JavaScript, Python, Verilog HDL.
   * Experience in C++, Go, Node.js, Java.
@@ -61,7 +61,7 @@ Teaching
 
 Grants
 ======
-* Apr 2021 - Mar 2023: <b>車載ネットワークにおける電圧・遅延特性を用いた高精度・低コストな送信者識別手法</b>
+* Apr 2021 - Mar 2023: <b><a href="https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-21J10516/">車載ネットワークにおける電圧・遅延特性を用いた高精度・低コストな送信者識別手法</a></b>
   * Grant-in-Aid for Young Scientists, Japan Society for the Promotion of Science
 
 Awards
