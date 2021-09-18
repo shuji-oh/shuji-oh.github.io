@@ -25,6 +25,10 @@ Work experience
   * Japan Society for the Promotion of Science
   * Duties included: Researching automotive security
 
+* Sep 2021 - Sep 2021: Summer Internship (two-week)
+  * NRI SecureTechnologies, Ltd.
+  * Duties included: Creating a package related to wireless security
+
 Skills
 ======
 * Languages
