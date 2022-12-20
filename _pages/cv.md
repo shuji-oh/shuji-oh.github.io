@@ -13,7 +13,7 @@ Education
 ======
 * B.E. in Computer Science, Hiroshima City University, 2018
 * M.E. in Graduate School of Science and Technology, Nara Institute of Science and Technology, 2020
-* Ph.D. in Graduate School of Science and Technology, Nara Institute of Science and Technology, 2023 (expected)
+* Ph.D. in Graduate School of Science and Technology, Nara Institute of Science and Technology, 2023
 
 Work experience
 ======
