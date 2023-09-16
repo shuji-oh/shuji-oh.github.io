@@ -1,5 +1,5 @@
 ---
-title: "CAN Bus Hacking"
+title: "CAN Bus Hacking, 2020"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-summer-seminar

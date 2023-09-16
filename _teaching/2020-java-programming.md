@@ -1,5 +1,5 @@
 ---
-title: "Java Programming"
+title: "Java Programming, 2020"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-java-programming

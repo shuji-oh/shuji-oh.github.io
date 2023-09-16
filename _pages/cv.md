@@ -29,6 +29,10 @@ Work experience
   * NRI SecureTechnologies, Ltd.
   * Duties included: Creating a package related to wireless security
 
+* Apr 2023 - Now : Support Engineer
+  * Amazon Web Services Japan G.K.
+  * Duties included: Support Engineering - Security, Identity, and Compliance Services
+
 Skills
 ======
 * Languages
@@ -41,6 +45,7 @@ Skills
   * Professional development experience in Django.
   * Experience in Flask, Vue.js.
 * Server Administration
+  * Professional experience in AWS Security Services.
   * Experience with software/tool including : Docker, Kubernetes (GKE), Logstash/Kibana/Elasticsearch, Nginx, Apache, WSGI Server (Gunicorn), MySQL, CI/CD pipelines (Github Actions).
   * Experience in Microsoft Azure.
 
@@ -56,6 +61,11 @@ Publications
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 -->
+
+Service
+======
+* Technical Program Committee Member
+  * IEEE Global Conference on Artificial Intelligence and Internet of Things (GCAIoT), 2023
   
 Teaching
 ======
