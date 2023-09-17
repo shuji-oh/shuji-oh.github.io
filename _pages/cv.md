@@ -62,7 +62,7 @@ Publications
   {% endfor %}</ul>
 -->
 
-Service
+Community Service
 ======
 * Technical Program Committee Member
   * IEEE Global Conference on Artificial Intelligence and Internet of Things (GCAIoT), 2023
