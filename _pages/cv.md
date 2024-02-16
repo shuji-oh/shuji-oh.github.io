@@ -48,6 +48,8 @@ Skills
   * Professional experience in AWS Security Services.
   * Experience with software/tool including : Docker, Kubernetes (GKE), Logstash/Kibana/Elasticsearch, Nginx, Apache, WSGI Server (Gunicorn), MySQL, CI/CD pipelines (Github Actions).
   * Experience in Microsoft Azure.
+* ID Federation Techniques
+  * Experience in SAML, OAuth 2.0, OIDC (AWS IAM Identity Center, successor to AWS SSO).
 
 Publications
 ======
@@ -82,5 +84,6 @@ Awards
 ======
 * July 2016: <b>Scholarship Student</b>, Hiroshima City University
 * July 2017: <b>Scholarship Student</b>, Hiroshima City University
-* Mar 2018: <b>優秀作品賞</b>, SecHack365
+* Mar. 2018: <b>優秀作品賞</b>, SecHack365
 * July 2020: <b>Scholarship Student</b>, Nara Institute of Science and Technology
+* Feb. 2023: <b>Rising Star Award</b>, Amazon Web Services Japan
