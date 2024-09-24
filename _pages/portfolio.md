@@ -15,10 +15,6 @@ author_profile: true
 
 職歴
 ======
-* Oct 2018 - Mar 2021: Part-Time System Engineer
-  * Minatokankobus Inc.
-  * Duties included: Development of a Django-based web application (web-based fleet management system)
-
 * 2018年10月 - 2021年3月: システムエンジニア（パートタイム）
   * みなと観光バス株式会社
   * 業務内容: Django ベースの Web アプリケーション (Web ベースの車両管理システム) の開発
