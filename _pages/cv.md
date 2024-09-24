@@ -25,9 +25,9 @@ Work experience
   * Japan Society for the Promotion of Science
   * Duties included: Researching automotive security
 
-* Sep 2021 - Sep 2021: Summer Internship (two-week)
-  * NRI SecureTechnologies, Ltd.
-  * Duties included: Creating a package related to wireless security
+* Oct 2018 - Mar 2021: Part-Time System Engineer
+  * Minatokankobus Inc.
+  * Duties included: Development of a Django-based web application (web-based fleet management system)
 
 * Apr 2023 - Now : Support Engineer
   * Amazon Web Services Japan G.K.
