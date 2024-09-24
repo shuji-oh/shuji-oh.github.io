@@ -17,6 +17,10 @@ Education
 
 Work experience
 ======
+* Oct 2018 - Mar 2021: Part-Time System Engineer
+  * Minatokankobus Inc.
+  * Duties included: Development of a Django-based web application (web-based fleet management system)
+
 * Oct 2020 - Mar 2021: Part-Time Lecturer
   * Nara College, National Institute of Technology
   * Duties included: Teaching about java programming
@@ -24,10 +28,6 @@ Work experience
 * Apr 2021 - Mar 2023: JSPS Research Fellowships for Young Scientists (DC2)
   * Japan Society for the Promotion of Science
   * Duties included: Researching automotive security
-
-* Oct 2018 - Mar 2021: Part-Time System Engineer
-  * Minatokankobus Inc.
-  * Duties included: Development of a Django-based web application (web-based fleet management system)
 
 * Apr 2023 - Now : Support Engineer
   * Amazon Web Services Japan G.K.
