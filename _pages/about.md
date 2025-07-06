@@ -10,10 +10,10 @@ redirect_from:
 
 Introduction
 ------
-I am a Cloud Support Engineer at Amazon Web Services since April 2023. 
+I am a Cloud Support Engineer at Amazon Web Services Japan since April 2023.
 
-Before joining Amazon Web Services, I was a Ph.D. student of Computer Science at the Nara Institute of Science and Technology (NAIST), where a member of the Internet Architecture and Systems Laboratory (inet-lab). And, from 2021 to 2023, I was a Research Fellow of the Japan Society for the Promotion of Science (DC2). 
+Before joining AWS, I completed my Ph.D. in Computer Science at the Nara Institute of Science and Technology (NAIST), where I was a member of the Internet Architecture and Systems Laboratory (inet-lab) and a Research Fellow of the Japan Society for the Promotion of Science (DC2) from 2021 to 2023.
 
-I received the B.E. and M.E. degrees from Hiroshima City University and NAIST, respectively. And, I received Ph.D. degree from the Graduate School of Science and Technology, NAIST. My doctoral research investigated offensive and defensive approaches for the existing automotive or in-vehicle networks and intrusion detection systems.
+Throughout my academic and industrial career, I’ve been fascinated by how widely adopted systems and protocols can behave unexpectedly when pushed beyond their intended use. My research has focused on cybersecurity for cyber-physical systems—especially in-vehicle networks like CAN—where I explored both offensive and defensive techniques. I was particularly drawn to how low-level physical-layer signals (such as voltage and timing anomalies), information entropy, and kernel-level indicators can be used to design or bypass intrusion detection systems.
 
-My research mainly focuses on cybersecurity for cyber-physical systems and their networks. Particularly, I am interested in how to design and evade the automotive intrusion detection system based on physical-layer characteristics (e.g. voltage and delay-time), information entropy, kernel-level system information, and so on.
+Even today, I remain interested in systems like SAML or OIDC, where the complexity of trust models and cross-domain behavior can lead to unintended interactions. I enjoy investigating these kinds of protocol or system-level boundaries, especially when they reveal subtle design assumptions or security gaps.
