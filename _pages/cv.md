@@ -29,9 +29,13 @@ Work experience
   * Japan Society for the Promotion of Science
   * Duties included: Researching automotive security
 
-* Apr 2023 - Now : Support Engineer
+* Apr 2023 - Sep 2025 : Support Engineer
   * Amazon Web Services Japan G.K.
   * Duties included: Support Engineering - Security, Identity, and Compliance Services
+
+* Oct 2025 - Now : Security Consultant
+  * Amazon Web Services Japan G.K.
+  * Duties included: Providing security advisory and consulting to enterprise customers, supporting secure architecture design on AWS, and helping organizations adopt best practices for identity management, compliance, and threat detection.
 
 Skills
 ======
@@ -49,7 +53,7 @@ Skills
   * Experience with software/tool including : Docker, Kubernetes (GKE), Logstash/Kibana/Elasticsearch, Nginx, Apache, WSGI Server (Gunicorn), MySQL, CI/CD pipelines (Github Actions).
   * Experience in Microsoft Azure.
 * ID Federation Techniques
-  * Experience in SAML, OAuth 2.0, OIDC (AWS IAM Identity Center, successor to AWS SSO).
+  * Experience in SAML, OAuth 2.0, OIDC (AWS IAM Identity Center, successor to AWS SSO, Okta Identity Engine).
 
 Publications
 ======
