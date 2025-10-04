@@ -12,7 +12,7 @@ Introduction
 ------
 I am a Security Consultant at Amazon Web Services Japan.
 
-Before joining AWS, I completed my Ph.D. in Computer Science at the Nara Institute of Science and Technology (NAIST), where I was a member of the Internet Architecture and Systems Laboratory (inet-lab) and a Research Fellow of the Japan Society for the Promotion of Science (DC2) from 2021 to 2023. From 2023 to 2025, I worked as a Support Engineer at AWS, where I gained deep technical expertise in AWS security services and engaged in troubleshooting complex issues for customers.
+Before joining AWS, I completed my Ph.D. in Computer Science at the Nara Institute of Science and Technology (NAIST), where I was a member of the Internet Architecture and Systems Laboratory (inet-lab) and a Research Fellow of the Japan Society for the Promotion of Science (DC2) from 2021 to 2023. From 2023 to 2025, I worked as a Support Engineer at AWS, where I gained deep technical expertise in AWS security services and engaged in troubleshooting complex issues.
 
 Throughout my academic and industrial career, I’ve been fascinated by how widely adopted systems and protocols can behave unexpectedly when pushed beyond their intended use. My research has focused on cybersecurity for cyber-physical systems—especially in-vehicle networks like CAN—where I explored both offensive and defensive techniques. I was particularly drawn to how low-level physical-layer signals (such as voltage and timing anomalies), information entropy, and kernel-level indicators can be used to design or bypass intrusion detection systems.
 
