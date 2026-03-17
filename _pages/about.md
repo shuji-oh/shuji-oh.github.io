@@ -10,10 +10,11 @@ redirect_from:
 
 Introduction
 ------
-I am a Security Consultant at Amazon Web Services Japan.
+I am a Security Consultant at Amazon Web Services Japan, where I help customers design and implement secure cloud architectures with a focus on identity and access management.
+Before joining AWS, I earned my Ph.D. in Computer Science from Nara Institute of Science and Technology (NAIST), where I was a member of the Internet Architecture and Systems Laboratory (inet-lab). During my doctoral studies, I was also a Research Fellow of the Japan Society for the Promotion of Science (DC2).
 
-Before joining AWS, I completed my Ph.D. in Computer Science at the Nara Institute of Science and Technology (NAIST), where I was a member of the Internet Architecture and Systems Laboratory (inet-lab) and a Research Fellow of the Japan Society for the Promotion of Science (DC2) from 2021 to 2023. From 2023 to 2025, I worked as a Support Engineer at AWS, where I gained deep technical expertise in AWS security services and engaged in troubleshooting complex issues.
+My research focused on cybersecurity for cyber-physical systems, particularly in-vehicle networks such as Controller Area Network. I explored both offensive and defensive approaches, examining how physical-layer characteristics (e.g., voltage and timing anomalies), entropy-based indicators, and kernel-level signals can be leveraged to design—or evade—intrusion detection systems.
 
-Throughout my academic and industrial career, I’ve been fascinated by how widely adopted systems and protocols can behave unexpectedly when pushed beyond their intended use. My research has focused on cybersecurity for cyber-physical systems—especially in-vehicle networks like CAN—where I explored both offensive and defensive techniques. I was particularly drawn to how low-level physical-layer signals (such as voltage and timing anomalies), information entropy, and kernel-level indicators can be used to design or bypass intrusion detection systems.
+After completing my Ph.D., I joined AWS as a Support Engineer, where I worked closely with customers to troubleshoot complex issues and developed deep technical expertise in AWS security services. This experience gave me a practical perspective on how large-scale distributed systems behave in real-world environments.
 
-Even today, I remain interested in systems using SAML or OpenID Connect, where the complexity of trust models and cross-domain behavior can lead to unintended interactions. I enjoy investigating these kinds of protocol or system-level boundaries, especially when they reveal subtle design assumptions or security gaps.
+Across both research and industry, I’ve been particularly interested in the boundaries of trust in complex systems—how assumptions about identity, communication, and protocol behavior can break down in unexpected ways. Today, I continue to explore these themes in cloud and identity systems, especially protocols such as SAML and OpenID Connect, where cross-domain trust relationships can create subtle security challenges.
