@@ -84,6 +84,13 @@ Grants
 * Apr 2021 - Mar 2023: <b><a href="https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-21J10516/">車載ネットワークにおける電圧・遅延特性を用いた高精度・低コストな送信者識別手法</a></b>
   * Grant-in-Aid for Young Scientists, Japan Society for the Promotion of Science
 
+Certificates
+======
+* CISSP Associate - Certified Information Systems Security Professional
+* AWS Certified Security – Specialty
+* AWS Single Sign-On Subject Matter Expert
+etc.
+
 Awards
 ======
 * July 2016: <b>Scholarship Student</b>, Hiroshima City University
