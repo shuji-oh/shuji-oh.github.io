@@ -88,6 +88,9 @@ Certificates
 ======
 * CISSP Associate - Certified Information Systems Security Professional
 * AWS Certified Security – Specialty
+* AWS Certified Solutions Architect – Associate
+* AWS Certified Machine Learning Engineer – Associate
+* AWS Certified AI Practitioner
 * AWS Single Sign-On Subject Matter Expert
 etc.
 
