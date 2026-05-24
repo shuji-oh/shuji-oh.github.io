@@ -86,7 +86,7 @@ Grants
 
 Certificates
 ======
-* CISSP Associate - Certified Information Systems Security Professional
+* Associate CISSP - Certified Information Systems Security Professional
 * AWS Certified Security – Specialty
 * AWS Certified Solutions Architect – Associate
 * AWS Certified Machine Learning Engineer – Associate
