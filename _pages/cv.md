@@ -68,6 +68,20 @@ Publications
   {% endfor %}</ul>
 -->
 
+Certificates
+======
+* Associate CISSP - Certified Information Systems Security Professional
+* AWS Certified Security – Specialty
+* AWS Certified Solutions Architect – Associate
+* AWS Certified Machine Learning Engineer – Associate
+* AWS Certified AI Practitioner
+* AWS Single Sign-On Subject Matter Expert
+etc.
+
+Open Source 
+======
+* 2026: Contributor, **[Keycloak](https://github.com/keycloak/keycloak)** [#40558](https://github.com/keycloak/keycloak/pull/40558)
+
 Community service
 ======
 * Technical Program Committee Member
@@ -83,16 +97,6 @@ Grants
 ======
 * Apr 2021 - Mar 2023: <b><a href="https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-21J10516/">車載ネットワークにおける電圧・遅延特性を用いた高精度・低コストな送信者識別手法</a></b>
   * Grant-in-Aid for Young Scientists, Japan Society for the Promotion of Science
-
-Certificates
-======
-* Associate CISSP - Certified Information Systems Security Professional
-* AWS Certified Security – Specialty
-* AWS Certified Solutions Architect – Associate
-* AWS Certified Machine Learning Engineer – Associate
-* AWS Certified AI Practitioner
-* AWS Single Sign-On Subject Matter Expert
-etc.
 
 Awards
 ======
