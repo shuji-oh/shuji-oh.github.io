@@ -78,7 +78,7 @@ Certificates
 * AWS Single Sign-On Subject Matter Expert
 etc.
 
-Open Source Activities
+Open source activities
 ======
 * 2026: Contributor, **[Keycloak](https://github.com/keycloak/keycloak)** [#40558](https://github.com/keycloak/keycloak/pull/40558)
 * 2026: Discovered and reported **[CVE-2026-113729](https://www.cve.org/CVERecord?id=CVE-2026-113729)** in **[moov-io/signedxml](https://github.com/moov-io/signedxml)** ([GitHub Security Advisory](https://github.com/moov-io/signedxml/security/advisories/GHSA-5588-rp99-5fjh), [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-113729)).
