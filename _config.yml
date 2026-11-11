@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Shuji Ohira"
 title_separator          : "-"
 name                     : &name "Shuji Ohira"
-description              : &description "personal description"
+description              : &description "Security Consultant at AWS Japan focusing on identity federation security (SAML / OIDC / OAuth 2.0). Ph.D. in Computer Science, NAIST."
 url                      : https://shuji-oh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shuji-oh/shuji-oh.github.io"
@@ -82,7 +82,6 @@ analytics:
 author:
   name             : "Shuji Ohira"
   avatar           : "logo.png"
-  bio              : " "
   location         : "Tokyo or Hiroshima"
   employer         :
   pubmed           : 
@@ -142,7 +141,9 @@ exclude:
   - config
   - gulpfile.js
   - log
+  - markdown_generator
   - node_modules
+  - portfolio-handoff.md
   - package.json
   - tmp
   - vendor
@@ -179,12 +180,6 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
     output: true
     permalink: /:collection/:path/
 

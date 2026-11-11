@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[日本語版 / Japanese version]({{ base_path }}/cvjp/)
+
 Education
 ======
 * B.E. in Computer Science, Hiroshima City University, 2018

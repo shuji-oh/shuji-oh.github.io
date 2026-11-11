@@ -1,11 +1,15 @@
 ---
 layout: archive
 title: "CV"
-permalink: /portfolio/
+permalink: /cvjp/
 author_profile: true
+redirect_from:
+  - /portfolio/
 ---
 
 {% include base_path %}
+
+[English version]({{ base_path }}/cv/)
 
 学歴
 ======
@@ -15,13 +19,17 @@ author_profile: true
 
 職歴
 ======
+* Oct 2018 - Mar 2021: Part-Time System Engineer
+  * Minatokankobus Inc.
+  * Duties included: Development of a Django-based web application (web-based fleet management system)
+
 * 2018年10月 - 2021年3月: システムエンジニア（パートタイム）
   * みなと観光バス株式会社
-  * 業務内容: Django ベースの Web アプリケーション (Web ベースのバス運行管理システム) の開発
+  * 業務内容: Django ベースの Web アプリケーション (Web ベースの車両管理システム) の開発
 
 * 2020年10月 - 2021年3月: 非常勤講師
   * 奈良工業高等専門学校
-  * 業務内容: Java プログラミングのサポート及び講義
+  * 業務内容: Javaプログラミングの講義
   
 * 2021年4月 - 2023年3月: 日本学術振興会 特別研究員（DC2）
   * 日本学術振興会
